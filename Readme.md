@@ -135,7 +135,10 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Shabrinath H**
+*Shabrinath H*
+
+Data Analyst 
+
 Email : hshabrinath@gmail.com
 🔗 [LinkedIn]www.linkedin.com/in/shabrinath-h
 🔗 [Portfolio]https://www.datascienceportfol.io/hshabrinath
